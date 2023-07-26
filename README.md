@@ -1,2 +1,2 @@
 # courses
-These are all courses I have attended, attend Online
+These are all courses I have attended "Online"
